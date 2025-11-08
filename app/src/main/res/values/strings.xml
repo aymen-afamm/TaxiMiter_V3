@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taxi Meter</string>
+
+    <!-- Menu Strings -->
+    <string name="profile">Profile</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+
+    <!-- Main Buttons -->
+    <string name="start_trip">Start</string>
+    <string name="pause_trip">Pause</string>
+    <string name="resume_trip">Resume</string>
+    <string name="stop_trip">Stop</string>
+</resources>
